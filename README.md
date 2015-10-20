@@ -1,5 +1,5 @@
 # Sikuli
-Playing around with Sikuli
+Playing around with Sikuli.
 
 Here i am on my beginning with GitHub, NetBeans and Sikuli.
 
