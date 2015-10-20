@@ -25,7 +25,7 @@ public class JavaApplication1 {
         
         for (int i = 0; i < 3; i++){
                 try{
-//                        s.click("../imgs/Sikuli01/Capture.PNG");
+                        s.click("../imgs/Sikuli01/Capture.PNG");
 //                        s.wait("Capture2.PNG",15);
 //                        s.setW(1000);
 //                        s.click(15);
